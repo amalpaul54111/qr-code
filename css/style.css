@@ -402,4 +402,18 @@ footer p {
 
 }
 
+.bottom {
+    margin-top: 30px;
+}
 
+.google-drive {
+    margin-top: 20px;
+    border: #151515;
+    margin: auto;
+    width: max-content;
+    height: 80px;
+    font-size: 42px;
+    border-radius: 20px;
+    background-color: white;
+    padding: 30px;
+}
